@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fad733c-ee4d-40d1-9453-58befa1517e4" name="Changes" comment="">
+    <list default="true" id="1fad733c-ee4d-40d1-9453-58befa1517e4" name="Changes" comment="3.10 - mejorado">
+      <change beforePath="$PROJECT_DIR$/.idea/ejercicios-en-pyhton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ejercicios-en-pyhton.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.10-ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.10-ejercicios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.13-ejercicios.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.13-ejercicios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fquispevillajuan23"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fquispevillajuan23/Ejercicios-python.git",
+    "accountId": "97ecea1f-529c-4069-adfe-9be5941085ba"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -26,28 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.3.10-ejercicios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Iterativa.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3.10-ejercicios.executor": "Run",
+    "Python.3.13-ejercicios.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Proyectos pychar/Ejercicios-python"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="3.10-ejercicios" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ejercicios-en-pyhton" />
-      <option name="ENV_FILES" value="$PROJECT_DIR$/../../Proyectos/PRUEBS/venv" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (proyectos)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.10-ejercicios.py" />
@@ -85,7 +101,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -98,7 +114,20 @@
       <option name="presentableId" value="Default" />
       <updated>1712791336436</updated>
     </task>
+    <task id="LOCAL-00001" summary="3.10 - mejorado">
+      <option name="closed" value="true" />
+      <created>1713313216325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713313216325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3.10 - mejorado" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.10 - mejorado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
