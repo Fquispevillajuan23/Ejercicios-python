@@ -1,6 +1,5 @@
 import math
 
-
 # Definir la función para convertir ángulos
 def convertir_angulo(angulo, unidad):
     if unidad == "grados":
@@ -11,7 +10,6 @@ def convertir_angulo(angulo, unidad):
         return angulo_grados
     else:
         return "Unidad de medida no válida"
-
 
 # Inicio del programa
 def main():
@@ -27,7 +25,6 @@ def main():
         print(resultado)
     else:
         print("El ángulo convertido es:", resultado)
-
 
 # Llamar a la función main para ejecutar el programa
 if __name__ == "__main__":
